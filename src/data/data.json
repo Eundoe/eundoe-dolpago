@@ -1,0 +1,25 @@
+{
+  "firstpercent"  : 75,
+  "rare" : [
+    {
+      "name" : "1tier",
+      "value" : 6
+    },
+    {
+      "name" : "2tier",
+      "value" : 7
+    },
+    {
+      "name" : "3tier",
+      "value" : 8
+    },
+    {
+      "name" : "4tier",
+      "value" : 9
+    },
+    {
+      "name" : "5tier",
+      "value" : 10
+    }
+  ]
+}
